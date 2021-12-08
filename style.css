@@ -1,0 +1,57 @@
+.page-1{
+    background-color: red;
+   padding-bottom: 100px;
+}
+.image{
+    padding: auto;
+    height: auto;
+    width: 100%;
+    margin-top: 20px ;
+}
+.aim{
+    color: white;
+    line-height: 2cm;
+    text-align: center;
+    padding-right: 40px;
+    padding-top: 30px;
+    font-family:"Montserrat-Black";
+    font-weight: bold;
+}
+.navbar{
+    padding-bottom: 35px;
+    padding-left: 20PX;
+}
+.nav-item{
+padding-left: 40px;
+font-size: 20px;
+}
+.navbar-brand{
+    font-size: 40px;
+}
+.btn{
+    margin-left:auto;
+    margin-right:auto;
+    display:block;
+}
+.page-2{
+    padding:30px;
+    margin: 20px;
+    border: solid black 6px;
+    font-size: 2em;
+}
+.foot{
+    text-align: center;
+}
+.insta{
+    display: inline;
+    padding: 40px;
+
+}
+.number{
+    display: inline;
+    padding: 40px;
+}
+.con
+{
+    margin-left: 40%;
+}
